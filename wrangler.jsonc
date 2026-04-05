@@ -1,0 +1,9 @@
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "lipcolor",
+  "compatibility_date": "2026-04-05",
+  "assets": {
+    "directory": "./out",
+    "not_found_handling": "404-page"
+  }
+}
